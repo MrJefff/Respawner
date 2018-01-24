@@ -9,7 +9,7 @@ using UnityEngine;
 
 namespace Oxide.Plugins
 {
-    [Info("Respawner", "Wulf/lukespragg", "1.0.3", ResourceId = 669)]
+    [Info("Respawner", "Wulf/lukespragg", "1.0.3")]
     [Description("Automatically respawns players with permission and optionally wakes them up")]
     public class Respawner : CovalencePlugin
     {
